@@ -11,11 +11,5 @@ Country(alpha_2='AF', alpha_3='AFG', name='Afghanistan', numeric='004', official
 Country(alpha_2='DE', alpha_3='DEU', name='Germany', numeric='276', official_name='Federal Republic of Germany')
 >>> germany.alpha_2
 'DE'
->>> germany.alpha_3
-'DEU'
->>> germany.numeric
-'276'
->>> germany.name
-'Germany'
->>> germany.official_name
-'Federal Republic of Germany'
+
+![1_TZ5M6InxPHaXEYYwTNc7lA](https://user-images.githubusercontent.com/60054130/120269880-3eed8a00-c2c6-11eb-81f7-12f00e521774.png)
